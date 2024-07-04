@@ -1,0 +1,16 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "Bakend Start ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "Start"
+  ],
+  "author": "Shubham Kumar",
+  "license": "ISC"
+}
