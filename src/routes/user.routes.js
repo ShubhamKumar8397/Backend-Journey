@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { registerUser } from "../Controllers/user.controller.js";
-import storage, { upload } from "../middlewares/multer.middleware.js"
+import  { upload } from "../middlewares/multer.middleware.js"
+
 
 const router = Router()
 
